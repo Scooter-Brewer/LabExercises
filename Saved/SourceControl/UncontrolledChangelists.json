@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/Lecture01/BP_Hello.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/8D/X49WN963BOOCJAQA3IZ7HS.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/Lecture03/BP_Construction.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/7V/AG1BX67YTTMWF00V6K6S92.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/Lecture03/BP_Explosion.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/27/YW2RM0Q1R6R3C32A1KQF7W.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ND/EO2BGB6LP1IP98V0MQBYCM.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0L/C020THMWY4MSSM1GBZEJBL.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/Lecture04/BP_GameMode_HUD.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UC/M8QNVTUGZD0MY8M18T1C46.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/36/0KNXF02HXJK09F2AA1X75U.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HL/1KDYVTP5BOXB5PZLR3H9OE.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/Lecture04/BP_HUD_Timer.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/Lecture04/Switch_The_Gamemode_Override_for_this_lec_to_work.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5W/GZJZH0PABUOI7N0D7DH7T5.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/TV/QN99JGR643ROUDQ026TJKF.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/GG/6A4CRF4WSPJYMKS091DPU9.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/X2/VW2YNIREH61FRSP61V8IZD.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FJ/6YNUM0WNIQE4BACOCISWZM.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LS/WEM4DACLSW5A8PAI8P4DBK.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/Lecture06/EMeshType.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/A1/ZV7YR4VFOI9D4MXIPKXGHX.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PQ/X5D5UJFK4IPSSP08PQEUOF.uasset",
+				"C:/Users/Scooter/Documents/Unreal Projects/LabExercises/Lab-Exercises/Content/Lecture06/BP_Enum.uasset"
+			]
+		}
+	]
+}
